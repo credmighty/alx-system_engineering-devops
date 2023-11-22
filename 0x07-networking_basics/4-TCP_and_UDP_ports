@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Sockets and Ports; as the PID and name of the prog to which each socket belong
-
-netstat -l --program
