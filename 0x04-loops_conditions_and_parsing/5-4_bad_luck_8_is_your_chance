@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#script that prints "Best School" 10times on terminal
+#+using while and if-elif-else to display bad luck at
+#+ iter 4 abd good luck at iter 8
+
+a=1
+while [ $a -le 10 ]
+do
+	if [ $a -eq 4 ]
+	then
+		echo "bad luck"
+	elif [ $a -eq 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	((a++))
+done
