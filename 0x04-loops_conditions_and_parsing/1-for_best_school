@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#script that prints "Best School" 10times on terminal
 
 for a in {10..1};
 do
