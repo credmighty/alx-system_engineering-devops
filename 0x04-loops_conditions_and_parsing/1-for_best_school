@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+
+for a in {10..1};
+do
+	echo "Best School"
+done
