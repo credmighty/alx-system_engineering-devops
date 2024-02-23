@@ -20,9 +20,6 @@ do
 	17)
 		echo "bad luck from Italy "
 		;;
-
-	*)
-		;;
 	esac
 	((a++))
 done
