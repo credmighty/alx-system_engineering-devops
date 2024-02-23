@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# displays the content of the current directory in a certain format
+#+ Where only the part of the name after the first dash is displayed
+#Requirement - You must use the for loop (while and until are forbidden)
+
+list=$(ls)
+for file in $list
+do
+	find "$file" | cut -d- -f2
+done
