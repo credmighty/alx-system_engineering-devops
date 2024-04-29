@@ -16,7 +16,10 @@ Background Context
 This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
 
 Resources
+=========
+
 Read or watch:
+--------------
 
 - [Network sniffing](https://www.lifewire.com/definition-of-sniffer-817996)
 - [ARP spoofing](https://www.veracode.com/security/arp-spoofing)
@@ -25,13 +28,19 @@ Read or watch:
 - [Dictionary attack](https://en.wikipedia.org/wiki/Dictionary_attack)
 
 man or help:
+------------
 
-tcpdump
-hydra
-telnet
-docker
+- tcpdump
+- hydra
+- telnet
+- docker
+
+
 Tasks
-0. ARP spoofing and sniffing unencrypted traffic
+=====
+
+```
+### 0. ARP spoofing and sniffing unencrypted traffic
 #advanced
 
 
@@ -88,13 +97,14 @@ You can download the script user_authenticating_into_server [here](https://intra
 
 DISCLAIMER: you will probably see Authentication failed: Bad username / password in the tcpdump trace. It’s normal, we deleted the user to our Sendgrid account. You can’t verify the password found via Sendgrid, only the correction system can!
 
-Repo:
+**Repo:**
 
-GitHub repository: alx-system_engineering-devops
-Directory: attack_is_the_best_defense
-File: 0-sniffing
+- GitHub repository: alx-system_engineering-devops
+- Directory: attack_is_the_best_defense
+- File: 0-sniffing
+```
   
-1. Dictionary attack
+### 1. Dictionary attack
 #advanced
 Password-based authentication systems can be easily broken by using a dictionary attack (you’ll have to find your own password dictionary). Let’s try it on an SSH account.
 
@@ -106,9 +116,9 @@ Because the Docker container is running locally, hydra should access the SSH acc
 Hint: the password is 11 characters long
 Once you found the password, share it in your answer file.
 
-Repo:
+**Repo:**
 
-GitHub repository: alx-system_engineering-devops
-Directory: attack_is_the_best_defense
-File: 1-dictionary_attack
+- GitHub repository: alx-system_engineering-devops
+- Directory: attack_is_the_best_defense
+- File: 1-dictionary_attack
   
