@@ -41,8 +41,8 @@ The second line of all your Bash scripts should be a comment explaining what is 
 Your servers
 Name	Username	IP	State	
 115385-web-01	ubuntu	52.91.134.62	running	
-115385-web-02	ubuntu	54.164.95.199	pending	
-115385-lb-01				
+115385-web-02	ubuntu	54.164.95.199	running	
+115385-lb-01	ubuntu  54.160.103.240  running			
 Tasks
 0. Double the number of webservers
 mandatory
@@ -81,7 +81,7 @@ Requirements:
 Configure HAproxy so that it send traffic to web-01 and web-02
 Distribute requests using a roundrobin algorithm
 Make sure that HAproxy can be managed via an init script
-Make sure that your servers are configured with the right hostnames: [STUDENT_ID]-web-01 and [STUDENT_ID]-web-02. If not, follow this tutorial.
+Make sure that your servers are configured with the right hostnames: [STUDENT_ID]-web-01 and [STUDENT_ID]-web-02. If not, follow this [tutorial](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html).
 For your answer file, write a Bash script that configures a new Ubuntu machine to respect above requirements
 Example:
 
