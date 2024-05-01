@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Using what you did for task #0, make your fix short and sweet
-sed -i 's/8080 default/80 default/g' /etc/nginx/sites-enabled/default
-sudo service nginx start
-service nginx status | grep "nginx is not running"
+#Using what you did for task #0, make your fix short and sweet.
+sed -i 's/8080 default/80 default/' /etc/nginx/sites-enabled/default
+sudo service nginx restart
+pkill -o nginx
