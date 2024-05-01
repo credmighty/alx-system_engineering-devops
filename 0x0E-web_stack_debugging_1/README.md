@@ -23,7 +23,7 @@ For this project, we expect you to look at these concepts:
 -- [What is TCP/IP](https://www.avast.com/c-what-is-tcp-ip#)
 -- [What is an Internet Protocol (IP) port?](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
 
-- [Web stack debugging]
+- [Web stack debugging](https://docs.google.com/document/d/1VwAWffCYnKEYNvoHoRUM-cEgs_ooGLCC69fgnsPUrEI/edit?usp=sharing)
 ```
 
 ###Requirements
