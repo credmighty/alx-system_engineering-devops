@@ -4,4 +4,4 @@
 
 #sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 sed -i 's/8080 default/80 default/g' /etc/nginx/sites-enabled/default
-sudo service nginx start
+sudo service nginx restart
