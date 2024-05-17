@@ -9,6 +9,14 @@ SysAdmin
  An auto review will be launched at the deadline
 
 
+ Concepts
+ For this project, we expect you to look at these concepts:
+
+- Load balancer
+	- [Load-balancing](https://www.thegeekstuff.com/2016/01/load-balancer-intro/)
+	- [Load-balancing algorithms](https://community.f5.com/kb/technicalarticles/intro-to-load-balancing-for-developers-%E2%80%93-the-algorithms/273759)
+- [Web stack debugging](https://docs.google.com/document/d/1VwAWffCYnKEYNvoHoRUM-cEgs_ooGLCC69fgnsPUrEI/edit?usp=sharing)
+
 Background Context
 You have been given 2 additional servers:
 
