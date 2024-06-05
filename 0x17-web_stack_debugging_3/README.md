@@ -10,8 +10,8 @@ Debugging
 Concepts
 For this project, we expect you to look at these concepts:
 
-Web Server
-Web stack debugging
+- [Web Server](https://docs.google.com/document/d/1VFodjfmW0-4y8SiKmf0OlCnbMLWdE4K3tdr2-N0ApVU/edit?usp=sharing)
+- [Web stack debugging](https://docs.google.com/document/d/1VwAWffCYnKEYNvoHoRUM-cEgs_ooGLCC69fgnsPUrEI/edit?usp=sharing)
 Background Context
 
 
