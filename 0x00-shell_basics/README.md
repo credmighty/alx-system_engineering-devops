@@ -17,16 +17,16 @@ Resources
 
 **Read or watch**:
 
--   [What Is "The Shell"?](https://alx-intranet.hbtn.io/rltoken/vwO91sqNBgRL03BLu-ueiA "What Is "The Shell"?")
--   [Navigation](https://alx-intranet.hbtn.io/rltoken/iblidp7yp6i-QpT8rDXHaA "Navigation")
--   [Looking Around](https://alx-intranet.hbtn.io/rltoken/xEKUCnQsMH0esQ6fJU5vLA "Looking Around")
--   [A Guided Tour](https://alx-intranet.hbtn.io/rltoken/HUhQ73fFR1GOC5nb4r-mDw "A Guided Tour")
--   [Manipulating Files](https://alx-intranet.hbtn.io/rltoken/olv-1tj4d1LA57Z0PrLNvw "Manipulating Files")
--   [Working With Commands](https://alx-intranet.hbtn.io/rltoken/zUtux3Pm0BkvtwXzbTtkmA "Working With Commands")
--   [Reading Man pages](https://alx-intranet.hbtn.io/rltoken/rddGdsqLf8_kRzp12RaD4A "Reading Man pages")
--   [Keyboard shortcuts for Bash](https://alx-intranet.hbtn.io/rltoken/JcsRq7PW6v7SdpPH_N8udQ "Keyboard shortcuts for Bash")
+-   [What Is "The Shell"?](https://linuxcommand.org/lc3_lts0010.php)
+-   [Navigation](https://linuxcommand.org/lc3_lts0020.php)
+-   [Looking Around](https://linuxcommand.org/lc3_lts0030.php)
+-   [A Guided Tour](https://linuxcommand.org/lc3_lts0040.php)
+-   [Manipulating Files](https://linuxcommand.org/lc3_lts0050.php)
+-   [Working With Commands](https://linuxcommand.org/lc3_lts0060.php)
+-   [Reading Man pages](https://linuxcommand.org/lc3_man_pages/man1.html)
+-   [Keyboard shortcuts for Bash](https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
 -   [LTS](https://wiki.ubuntu.com/LTS)
--   [Shebang](https://alx-intranet.hbtn.io/rltoken/cE8ZA3kgEaFhB-IDNv31bQ "Shebang")
+-   [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 
 **man or help**:
 
@@ -79,7 +79,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   What do the commands `ls`, `less`, `file` do
 -   How do you use options and arguments with commands
 -   Understand the ls long format and how to display it
--   [A Guided Tour](https://alx-intranet.hbtn.io/rltoken/HUhQ73fFR1GOC5nb4r-mDw "A Guided Tour")
+-   [A Guided Tour](https://linuxcommand.org/lc3_lts0040.php)
 -   What does the `ln` command do
 -   What do you find in the most common/important directories
 -   What is a symbolic link
