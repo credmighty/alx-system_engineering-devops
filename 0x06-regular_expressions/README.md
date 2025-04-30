@@ -71,7 +71,7 @@ mandatory
 
 Score: 0.00% (Checks completed: 0.00%)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9a4a2ea55f73fa4005bbf0accac62d939690cddf810b947ed296518dba4fd4b0)
+![picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9a4a2ea55f73fa4005bbf0accac62d939690cddf810b947ed296518dba4fd4b0)
 
 Requirements:
 
@@ -106,7 +106,7 @@ mandatory
 
 Score: 0.00% (Checks completed: 0.00%)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c82cb7591eaaa07d385f498fbd2ce2b6d0bae768dd3bba97ec3cbf90a7d15a16)
+![picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c82cb7591eaaa07d385f498fbd2ce2b6d0bae768dd3bba97ec3cbf90a7d15a16)
 
 Requirements:
 
@@ -127,7 +127,7 @@ mandatory
 
 Score: 0.00% (Checks completed: 0.00%)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3188883f1a5f441886a5a69002ef29d0ea4719b0134a5af8405a6be06848369)
+![picure](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3188883f1a5f441886a5a69002ef29d0ea4719b0134a5af8405a6be06848369)
 
 Requirements:
 
@@ -148,7 +148,7 @@ mandatory
 
 Score: 0.00% (Checks completed: 0.00%)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=11b3377f4ff1fd77bda18c43945e679c5d86c494ee68ea8493a03771d6838b3a)
+![picure](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=11b3377f4ff1fd77bda18c43945e679c5d86c494ee68ea8493a03771d6838b3a)
 
 Requirements:
 
@@ -169,7 +169,7 @@ mandatory
 
 Score: 33.33% (Checks completed: 33.33%)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0292a256c5f887345e59961db7a82441b2e11936a25ef003ae845d5368e0aec5)
+![picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220119T135435Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0292a256c5f887345e59961db7a82441b2e11936a25ef003ae845d5368e0aec5)
 
 Requirements:
 
@@ -226,7 +226,7 @@ mandatory
 
 Score: 0.00% (Checks completed: 0.00%)
 
-This task is brought to you by a professional advisor [Neha Jain](https://alx-intranet.hbtn.io/rltoken/GqwvXAvTXR_JXqyTvZ4AzQ "Neha Jain"), Senior Software Engineer at LinkedIn.
+This task is brought to you by a professional advisor [Neha Jain](https://x.com/_nehajain "Neha Jain"), Senior Software Engineer at LinkedIn.
 
 Requirement:
 
@@ -261,7 +261,7 @@ mandatory
 
 Score: 0.00% (Checks completed: 0.00%)
 
-![](https://alx-intranet.hbtn.io/images/contents/sysadmin/projects/78/shouting.jpg)
+![picture](https://alx-intranet.hbtn.io/images/contents/sysadmin/projects/78/shouting.jpg)
 
 Requirement:
 
@@ -294,7 +294,7 @@ sylvain@ubuntu$
 
 Score: 0.00% (Checks completed: 0.00%)
 
-This exercise was prepared for you by [Guillaume Plessis](https://alx-intranet.hbtn.io/rltoken/2Rwwb9pSGKXSp3b3BcqkAw "Guillaume Plessis"), VP of Infrastructure at TextMe. It is something he uses daily. You can thank Guillaume for his project [on Twitter](https://alx-intranet.hbtn.io/rltoken/Vz-iLl3_Of797s9TsjCxJQ "on Twitter").
+This exercise was prepared for you by [Guillaume Plessis](https://www.linkedin.com/in/gplessis/ "Guillaume Plessis"), VP of Infrastructure at TextMe. It is something he uses daily. You can thank Guillaume for his project [on Twitter](https://x.com/gui "on Twitter").
 
 For this task, you'll be taking over Guillaume's responsibilities: one afternoon, a TextMe VoIP Engineer comes to you and explains she wants to run some statistics on the TextMe app text messages transactions.
 
