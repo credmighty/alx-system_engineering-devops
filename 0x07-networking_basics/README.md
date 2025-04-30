@@ -124,7 +124,7 @@ It is organized from the lowest level to the highest level:
 
 Keep in mind that the OSI model is a concept, it's not even tangible. The OSI model doesn't perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening. Most of the functionality in the OSI model exists in all communications systems.
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220121T124113Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=10fe93ff962631db911454dccd5d0553cfc34439ee9edd8c4db198d75356e66c)
+![now](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250430T103011Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f5e994bf03b471242ae84ec39c5e814178325198732141d16ef2e0dbd8551b18)
 
 In this project we will mainly focus on:
 
