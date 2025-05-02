@@ -15,12 +15,18 @@ For this project, we expect you to look at these concepts:
 - [DNS](https://docs.google.com/document/d/1ZPf4l4CSXDbsxQw7HSxkl1sCHPGvN2CClTALA9XZIuk/edit?usp=sharing)
 - [Web stack debugging](://docs.google.com/document/d/1VwAWffCYnKEYNvoHoRUM-cEgs_ooGLCC69fgnsPUrEI/edit?usp=sharing)
 
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/FlhGPEK.png)
 
 Background Context
-What happens when you don’t secure your website traffic?
+------------------
+
+### What happens when you don't secure your website traffic?
+
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/xCmOCgw.gif)
 
 
 Resources
+---------
 Read or watch:
 
 - [What is HTTPS?](https://www.instantssl.com/http-vs-https)
@@ -52,10 +58,14 @@ The second line of all your Bash scripts should be a comment explaining what is 
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Your servers
-Name	Username	IP	State	
-115385-web-01	ubuntu	52.91.134.62	running	
-115385-web-02	ubuntu	54.164.95.199	running	
-115385-lb-01	ubuntu	54.160.103.240	running	
+------------
+
+| Name |	Username |	IP	| State	|  |
+| --- | --- | --- | --- | --- |
+| 115385-web-01 |	`ubuntu |	`52.91.134.62` |	running	|
+| 115385-web-02	| `ubuntu	| `54.164.95.199`	| running	|
+| 115385-lb-01	| `ubuntu` |	`54.160.103.240` |	running	|
+
 Tasks
 0. World wide web
 mandatory
