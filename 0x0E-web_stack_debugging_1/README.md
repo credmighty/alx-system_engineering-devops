@@ -17,7 +17,8 @@ Debugging
 ###Concepts
 For this project, we expect you to look at these concepts:
 
-- Network basics
+- [Network basics](https://docs.google.com/document/d/1NWBT6Vu5q8tLcrtY-k3HBBVGGxQ1mOBgg7wocUWbStw/edit?usp=sharing)
+- [web stack debugging](https://docs.google.com/document/d/1VwAWffCYnKEYNvoHoRUM-cEgs_ooGLCC69fgnsPUrEI/edit?usp=sharing)
 -- [What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
 -- [What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
 -- [What is TCP/IP](https://www.avast.com/c-what-is-tcp-ip#)
