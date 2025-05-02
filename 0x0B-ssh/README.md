@@ -1,39 +1,52 @@
-0x0B. SSH
-DevOps
-SSH
-Network
-SysAdmin
-Security
- Weight: 1
- Project will start Apr 19, 2024 6:00 AM, must end by Apr 22, 2024 6:00 AM
- Checker was released at Apr 20, 2024 12:00 AM
- An auto review will be launched at the deadline
-Background Context
+# 0x0B. SSH
 
+## Resource
 
-Along with this project, you have been attributed an Ubuntu server, living in a datacenter far far away. Like level 2 of the application process, you will connect using ssh. But contrary to level 2, you will not connect using a password but an RSA key. We’ve configured your server with the public key you created in the first task of a previous project shared in your intranet profile.
+- [What is a (physical) server - text](https://en.wikipedia.org/wiki/Server_%28computing%29#Hardware_requirement)
+- [What is a (physical) server - video](https://www.youtube.com/watch?v=B1ANfsDyjeA)
+- [SSH essentials](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+- [SSH Config File](https://www.ssh.com/academy/ssh/config)
+- [Public Key Authentication for SSH](https://www.ssh.com/academy/ssh/public-key-authentication)
+- [How Secure Shell Works](https://www.youtube.com/watch?v=ORcvSkgdA58)
+- [SSH Crash Course](https://www.youtube.com/watch?v=hQWRp-FdTpc) (*(Long, but highly informative. Watch this if configuring SSH is still confusing. It may be helpful to watch at x1.25 speed or above.*)
 
-You can access your server information in the my servers section of the intranet, each line with contains the IP and username you should use to connect via ssh.
+### For reference
 
-Note: Your server is configured with an Ubuntu 20.04 LTS environment.
+- [Understanding the SSH Encryption and Connection Process](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
+- [Secure Shell Wiki](https://en.wikipedia.org/wiki/Secure_Shell)
+- [IETF RFC 4251 (Description of the SSH Protocol)](https://www.ietf.org/rfc/rfc4251.txt)
+- [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
+- [Request for Comments (RFCs)](https://en.wikipedia.org/wiki/Request_for_Comments)
 
-Resources
-Read or watch:
+## Tasks
 
-What is a (physical) server - text
-What is a (physical) server - video
-SSH essentials
-SSH Config File
-Public Key Authentication for SSH
-How Secure Shell Works
-SSH Crash Course (Long, but highly informative. Watch this if configuring SSH is still confusing. It may be helpful to watch at x1.25 speed or above.)
-For reference:
+`ssh ubuntu@3.84.158.113 -v`
+<details>
+<summary><a href="./0-use_a_private_key">0. Use a private key</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yW4gBSpM/image.png' border='0' alt='image'/></a>
+</details>
 
-Understanding the SSH Encryption and Connection Process
-Secure Shell Wiki
-IETF RFC 4251 (Description of the SSH Protocol)
-Internet Engineering Task Force
-Request for Comments
+<details>
+<summary><a href="./1-create_ssh_key_pair">1. Create an SSH key pair</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pXPbpdbx/image.png' border='0' alt='image'/></a>
+</details>
+
+<details>
+<summary><a href="./2-ssh_config">2. Client configuration file</a></summary><br>
+<a href='https://postimg.cc/Hjb2CMHK' target='_blank'><img src='https://i.postimg.cc/y6brchGV/image.png' border='0' alt='image'/></a>
+</details>
+
+<details>
+<summary>3. Let me in!</summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3N2k9F3k/image.png' border='0' alt='image'/></a>
+</details>
+
+<details>
+<summary><a href="./100-puppet_ssh_config.pp">4. Client configuration file (w/ Puppet)</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ryBvRXzV/image.png' border='0' alt='image'/></a><br>
+<ul><li>Install puppet stdlib module;</li></ul>
+<pre>sudo puppet module install puppetlabs-stdlib</pre>
+</details>
 man or help:
 
 ssh
