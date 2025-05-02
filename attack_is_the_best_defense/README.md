@@ -1,16 +1,20 @@
 Attack is the best defense
 ==========================
 
-DevOps
-Scripting
-Hacking
+DevOps Scripting Hacking
 ```
 Weight: 1
  Project will start Apr 15, 2024 6:00 AM, must end by Apr 29, 2024 6:00 AM
  Checker was released at Apr 18, 2024 6:00 PM
  An auto review will be launched at the deadline
  ```
+```
+Concepts
+*For this project, we expect you to look at these concepts:
 
+- [Network basics](https://docs.google.com/document/d/1NWBT6Vu5q8tLcrtY-k3HBBVGGxQ1mOBgg7wocUWbStw/edit?usp=sharing)<https://docs.google.com/document/d/1NWBT6Vu5q8tLcrtY-k3HBBVGGxQ1mOBgg7wocUWbStw/edit?usp=sharing>
+- [Docker](https://docs.google.com/document/d/1JB9ORvpfxEfld63Gt04uHcAnDyLNSCKZG8dVwpTid2E/edit?usp=sharing)<https://docs.google.com/document/d/1JB9ORvpfxEfld63Gt04uHcAnDyLNSCKZG8dVwpTid2E/edit?usp=sharing>
+```
 Background Context
 ------------------
 This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
@@ -43,6 +47,7 @@ Tasks
 ### 0. ARP spoofing and sniffing unencrypted traffic
 #advanced
 
+![picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01c5a1e3f29d290b188d34be5cf534d3255058a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T082628Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dc420f10689f7b2caa8bb77e611a224131defeada21b745ed20a264bc8718d4c)
 
 Security is a vast topic, and network security is an important part of it. A lot of very sensitive information goes over networks that are used by many people, and some people might have bad intentions. Traffic going through a network can be intercepted by a malicious machine pretending to be another network device. Once the traffic is redirected to the malicious machine, the hacker can keep a copy of it and analyze it for potential interesting information. It is important to note that the traffic must then be forwarded to the actual device it was supposed to go (so that users and the system keep going as if nothing happened).
 
@@ -93,7 +98,7 @@ sylvain@ubuntu$
 
 I wrote the script user_authenticating_into_server that performs the authentication steps that I just showed above. Your mission is to execute user_authenticating_into_server locally on your machine and, using tcpdump, sniff the network to find my password. Once you find it, paste the password in your answer file. This script will not work on a Docker container or Mac OS, use your Ubuntu vagrant machine or any other Linux machine.
 
-You can download the script user_authenticating_into_server [here](https://intranet.alxswe.com/rltoken/GE_FoAUArlVccQlt7CuBGA)
+You can download the script user_authenticating_into_server [here](https://intranet.alxswe.com/rltoken/GE_FoAUArlVccQlt7CuBGA) in my downloads
 
 DISCLAIMER: you will probably see Authentication failed: Bad username / password in the tcpdump trace. It’s normal, we deleted the user to our Sendgrid account. You can’t verify the password found via Sendgrid, only the correction system can!
 
