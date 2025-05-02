@@ -1,7 +1,7 @@
 00x14. MySQL
 ===========
 
-- By Dev Nderitu
+- By Dev ab
 - Weight: 1
 
 Concepts
