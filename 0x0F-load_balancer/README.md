@@ -12,10 +12,13 @@ SysAdmin
  Concepts
  For this project, we expect you to look at these concepts:
 
-- Load balancer
+- [Load balancer](https://docs.google.com/document/d/1BdBOaGmGEpNCuUBf0onQaOGt3aHt5WRrYB9m8_BTIDg/edit?usp=sharing)
 	- [Load-balancing](https://www.thegeekstuff.com/2016/01/load-balancer-intro/)
 	- [Load-balancing algorithms](https://community.f5.com/kb/technicalarticles/intro-to-load-balancing-for-developers-%E2%80%93-the-algorithms/273759)
 - [Web stack debugging](https://docs.google.com/document/d/1VwAWffCYnKEYNvoHoRUM-cEgs_ooGLCC69fgnsPUrEI/edit?usp=sharing)
+
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/275/qfdked8.png)
+
 
 Background Context
 You have been given 2 additional servers:
